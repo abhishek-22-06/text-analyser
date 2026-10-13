@@ -1,0 +1,11 @@
+===Text Analyser Report===
+==========================
+text=text=Data analytics is an important skill in today's world. Data helps businesses understand customers, improve services, and make better decisions. A data analyst collects data, cleans data, and studies data to find useful patterns. The analyst uses Python, SQL, Excel, and Power BI to turn raw data into meaningful information. Good data can help a business grow, but poor data can lead to poor decisions. Learning data analytics takes practice, patience, and curiosity.
+
+Length of the paragraph :  473
+Total number of word    :73
+Average length of worrds:5.232876712328767
+Most repetition of meaningfulwords:
+data: 9 times
+analytics: 2 times
+decisions: 2 times
